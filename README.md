@@ -47,3 +47,11 @@ currency to ensure consistent reporting in USD.
 
 ### Data source
 This dataset was gotten from kaggle
+
+### Tool used
+- Microsoft Power BI
+- Github
+- Powerpoint
+
+### Data Cleaning and preparation
+  
