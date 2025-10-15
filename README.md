@@ -42,7 +42,7 @@ customer behavior and segmentation.
 cost, and unit price) for product performance and profitability analysis.
 4. Stores: Provides store-level details (location, size, and open date) to assess
 regional and store performance.
-E5. xchange Rates (Supporting Table): Provides conversion rates by date and
+5. Exchange Rates (Supporting Table): Provides conversion rates by date and
 currency to ensure consistent reporting in USD.
 
 ### Data source
@@ -54,4 +54,14 @@ This dataset was gotten from kaggle
 - Powerpoint
 
 ### Data Cleaning and preparation
+The dataset was using PowerBI,removing of duplicates, fixing of null by replacing with mode/median, changing of data type, changing of currency sign
+
+### Data Modelling
+The dataset which consist of five(5) tables was connected during modelling, the sales table was marked as the fact table, which other mutiple table dimensions were connected to which gives a star schema 
+<img width="1306" height="806" alt="data modelling bc" src="https://github.com/user-attachments/assets/371fde89-99ad-4952-9b0e-ddfcae25c425" />
+
+### Exploratory Data Analysis
+### Time Intelligence function
+This was used to create our calendar table where we have our month,day, year,quarter. we marked it as our date table
+
   
