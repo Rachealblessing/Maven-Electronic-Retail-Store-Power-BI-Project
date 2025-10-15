@@ -22,4 +22,13 @@ Table of Content
 [Recommendation](Recommendation)
 
 ### project overview
-This project 
+This project build an end-to-end Power BI solution that ingests raw data, models it, computes key business metrics, and delivers an interactive dashboard for stakeholders to monitor performance, identify trends, and make data-driven decisions.
+
+### Data field
+1. Customer Table
+2. Exchange Rate
+3. Product Table
+4. Sales Table
+5. Stores
+
+### Data source
