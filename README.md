@@ -65,4 +65,7 @@ Date Table Creation
 This was used to create our calendar table where we have our month,day, year,quarter. we marked it as our date table
 <img width="683" height="880" alt="calendar table" src="https://github.com/user-attachments/assets/e78095c7-aad3-42cb-bae1-3d0961670589" />
 
+### Exploratory Data analysis
+
+
   
