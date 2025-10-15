@@ -60,8 +60,9 @@ The dataset was using PowerBI,removing of duplicates, fixing of null by replacin
 The dataset which consist of five(5) tables was connected during modelling, the sales table was marked as the fact table, which other mutiple table dimensions were connected to which gives a star schema 
 <img width="1306" height="806" alt="data modelling bc" src="https://github.com/user-attachments/assets/371fde89-99ad-4952-9b0e-ddfcae25c425" />
 
-### Exploratory Data Analysis
 ### Time Intelligence function
+Date Table Creation
 This was used to create our calendar table where we have our month,day, year,quarter. we marked it as our date table
+<img width="683" height="880" alt="calendar table" src="https://github.com/user-attachments/assets/e78095c7-aad3-42cb-bae1-3d0961670589" />
 
   
